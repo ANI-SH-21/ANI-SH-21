@@ -1,14 +1,14 @@
 # INTRODUCING MYSELF
 HI I'M ANISH FROM NEPAL🇳🇵<br>
 I'M CURRENTLY WORKING ON NEW TYPE OF CRACKING SYSTEM✨<br>
-CONTACT ME? FB : Anish輪<br>
+CONTACT ME? FB : Anish Yari<br>
 FUN FACT : CRACKING IS NOT CRIME IT'S A WAR BETWEEN SYSTEM
 
 [![](https://visitcount.itsvg.in/api?id=ANI-SH-21&icon=7&color=1)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/badshahking21) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/badshahking21](https://www.facebook.com/profile.php?id=61552099934765)) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=plastic&logo=glitch&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=plastic&logo=realm&logoColor=white)
